@@ -7,13 +7,13 @@ line_numbers: false
 
 <section class="wrap">
     <div class="wide">
-        <p>Wide paragraph of text</p>
+        <p>Brede paragraaf tekst</p>
     </div>
     <img class="narrow" src="placeholder.png" alt="Description of the image.">
 </section>
 
 \--- /code ---
 
-![A wide text element to the left of a narrow image element.](images/wide-text-inline.png)
+![Een breed tekstelement links van een smal afbeeldingselement.](images/wide-text-inline.png)
 
-![A wide text element above a narrow image element.](images/wide-text-vertical.png)
+![Een breed tekstelement boven een smal afbeeldingselement.](images/wide-text-vertical.png)
